@@ -1,4 +1,4 @@
-[Link to another page](../music).
+[Link to another page](./music).
 
 # Siiiistiii
 
