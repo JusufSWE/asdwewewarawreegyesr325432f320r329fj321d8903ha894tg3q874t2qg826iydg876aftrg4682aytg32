@@ -22,7 +22,7 @@ async function loadMusic() {
   const container = document.getElementById("music-list");
 
   files
-    .filter(file => file.name.endsWith(".mp3"))
+    .filter(file => file.name.toLowerCase().endsWith(".mp3"))
     .forEach(file => {
       const title = file.name.replace(".mp3", "");
 
