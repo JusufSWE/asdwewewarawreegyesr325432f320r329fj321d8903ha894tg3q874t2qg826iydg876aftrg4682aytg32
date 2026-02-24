@@ -11,7 +11,7 @@
 <script>
 async function loadMusic() {
   const user = "jusufswe";              // GitHub-käyttäjänimesi
-  const repo = "REPO_NIMI";             // Repositoriosi nimi
+  const repo = "asdwewewarawreegyesr325432f320r329fj321d8903ha894tg3q874t2qg826iydg876aftrg4682aytg32";             // Repositoriosi nimi
   const path = "docs/music";            // Polku musiikkikansioon
 
   const url = `https://api.github.com/repos/${user}/${repo}/contents/${path}`;
